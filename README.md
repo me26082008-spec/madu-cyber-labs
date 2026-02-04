@@ -1,18 +1,20 @@
 # madu-cyber-labs
 Practical cybersecurity learning repository focused on offensive foundations, defensive thinking, and long-term specialization in Threat Intelligence and Cloud Security.
 
-Objective
+## Objective
 
 Build a strong technical foundation in cybersecurity through structured, hands-on practice and public documentation.
 
-2026 Goal:
+
+## 2026 Goal:
 
 - Develop solid skills in enumeration, web vulnerabilities, scripting, and detection logic
 - Publish structured writeups
 - Build reusable scripts
 - Create at least one professional-style security report
 
-Focus Areas (Roadmap 2026)
+
+## Focus Areas (Roadmap 2026)
 
 - Linux & Networking Fundamentals
 - Enumeration & Nmap Deep Practice
@@ -23,7 +25,8 @@ Focus Areas (Roadmap 2026)
 
 This repository documents the transition from foundational knowledge to applied technical depth.
 
-Repository Structure
+
+## Repository Structure
 madu-cyber-lab
 
 ├─ README.md
@@ -48,7 +51,7 @@ Scan outputs and processed results.
 portfolio/
 Professional-style reports and consolidated projects.
 
-Writeup Template
+## Writeup Template
 
 Each lab follows a structured documentation format:
 
@@ -63,7 +66,7 @@ Lessons Learned
 
 The goal is not just exploitation, but understanding why it works and how it would be detected.
 
-Methodology Philosophy
+## Methodology Philosophy
 
 Every offensive action must answer:
 
@@ -77,7 +80,7 @@ Every offensive action must answer:
 
 Current Progress
 
-Foundation phase completed:
+## Foundation phase completed:
 
 - Linux basics
 - Initial Bandit levels
@@ -87,7 +90,8 @@ Foundation phase completed:
 
 Now moving into structured enumeration, detection mapping, and deeper technical documentation.
 
-Metrics for Success (2026)
+## Metrics for Success (2026)
+
 - 10+ structured writeups
 - 3+ functional automation scripts
 - 1 professional multi-phase security report
@@ -95,7 +99,8 @@ Metrics for Success (2026)
 
 Long-Term Direction
 
-Target specialization:
+
+## Target specialization:
 
 - Threat Intelligence
 - Cloud Security
