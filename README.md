@@ -3,8 +3,7 @@ Practical cybersecurity learning repository focused on offensive foundations, de
 
 ## Objective
 
-Build a strong technical foundation in cybersecurity through structured, hands-on practice and public documentation.
-
+This repository tracks my 2026 cybersecurity training journey, focused on building real technical depth through labs, scripting, and structured documentation.
 
 ## 2026 Goal:
 
@@ -68,7 +67,7 @@ The goal is not just exploitation, but understanding why it works and how it wou
 
 ## Methodology Philosophy
 
-Every offensive action must answer:
+For every offensive technique, I ask:
 
 | How would this be detected from a SOC perspective?
 
@@ -78,9 +77,9 @@ Every offensive action must answer:
 - Clear documentation
 - Incremental technical growth
 
-Current Progress
+## Current Progress
 
-## Foundation phase completed:
+Foundation phase completed:
 
 - Linux basics
 - Initial Bandit levels
@@ -93,11 +92,9 @@ Now moving into structured enumeration, detection mapping, and deeper technical 
 ## Metrics for Success (2026)
 
 - 10+ structured writeups
-- 3+ functional automation scripts
-- 1 professional multi-phase security report
-- Documented detection logic for common attack patterns
-
-Long-Term Direction
+- 3+ practical automation scripts
+- 1 consolidated security report
+- Long-Term Direction
 
 
 ## Target specialization:
